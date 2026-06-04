@@ -12,8 +12,7 @@ This repository contains the replication material for my undergraduate's dissert
 
 ## ⚠️ Important Notes
 
-*   **Under Development:** The scripts **`21`** and **`22`** inside the `Code/` directory are currently being updated. They will soon be replaced by a newer, optimized version.
-*   **Future Publication:** I am actively working on converting this dissertation into a **Short Paper in English** targeted for future publication in international academic journals.
+*   **Future Publication:** I am actively working on converting this dissertation into a **Short Paper in English** targeted for future publication in academic journals.
 
 ---
 *For any questions regarding the replication of the models, feel free to open an issue or contact me.*

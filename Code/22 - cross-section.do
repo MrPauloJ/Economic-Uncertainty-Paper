@@ -1,10 +1,18 @@
+**************************************************************************
+* Federal University of Pernambuco - PIMES UFPE
+* Research: The Impacts of Uncertainty on Economic Activity Across Brazilian States
+* Researcher: Paulo Francisco da Silva Junior
+* Advisor: Marcelo Eduardo Alves da Silva, PhD.
+**************************************************************************
+
+* Clean any data
 clear all
 
 * Change DIR
-cd "C:\Users\Paulo\Desktop\MineDoc\MONOGRAFIA\DADOS\Data\Resultados"
+cd "..\Data\Processed"
 
 * Import Data
-import excel using "C:\Users\Paulo\Desktop\MineDoc\MONOGRAFIA\DADOS\Data\Resultados\final_base.xlsx", firstrow clear
+import excel using "final_base.xlsx", firstrow clear
 
 ************* IRF3CUM *************
 
